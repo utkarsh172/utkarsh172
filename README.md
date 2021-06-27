@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @utkarsh172
-- 👀 I’m interested in Python
+- 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
